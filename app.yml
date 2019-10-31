@@ -1,4 +1,4 @@
-intro: "This is a funny app with cats"
+intro: "This is a funny app with cats and longer text"
 team:
   - {name: "John Capenter", freetext: "Producer"}
   - {name: "Robert Rodriguez", freetext: "visual effects supervisor"}
